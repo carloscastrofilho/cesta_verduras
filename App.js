@@ -21,18 +21,3 @@ export default function App() {
     </SafeAreaView>
   );
 }
-
-{/* <Text style={styles.Text}>ola mundo!</Text>
-      <Text>Carlos Filho</Text> */}
-// const styles = StyleSheet.create({
-//   container: {
-//     flex: 1,
-//     backgroundColor: '#fff',
-//     alignItems: 'center',
-//     justifyContent: 'center',
-//   },
-//   Text:{
-//     color:"red",
-    
-//   }
-// });
